@@ -1,0 +1,8 @@
+scikit-learn==1.4.0
+numpy==1.26.4
+psycopg2-binary==2.9.9
+redis==5.0.1
+kafka-python-ng==2.2.2
+pyautogen==0.2.27
+requests==2.31.0
+kafka-python
